@@ -1,0 +1,14 @@
+{
+    "name": "aplitoolsplaywright",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@playwright/test": "^1.23.0"
+    }
+}
